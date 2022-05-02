@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "697231735862",
+    "project_id": "buy-it-873c5",
+    "storage_bucket": "buy-it-873c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697231735862:android:73b3039b1711b14d522c97",
+        "android_client_info": {
+          "package_name": "com.example.scholar_ecommerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697231735862-7olrgertii7umo27vovltkv81h5kistj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8BDak5NSTxARfFpgD-4_AhvSxmJDPZro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697231735862-7olrgertii7umo27vovltkv81h5kistj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
